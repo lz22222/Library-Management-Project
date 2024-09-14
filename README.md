@@ -1,8 +1,8 @@
 GROUP PROJECT
-Group member：=
+Group member：
   lz22222
-  zige3
-  qianton2
+  ,zige3
+  ,qianton2
 
 # Group work break-down strategy
 lz22222:
