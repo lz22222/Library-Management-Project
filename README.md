@@ -4,6 +4,8 @@ Group member：
   ,zige3
   ,qianton2
 
+2024.3
+
 # Group work break-down strategy
 lz22222:
 Responsible for all SQL-related aspects of the project, which includes:
